@@ -1,0 +1,19 @@
+p {
+font-family: arial;
+font-size: 24px;
+color: yellow;
+}
+
+h1{
+font-family: arial;
+font-size: 32px;
+color: yellow;
+}
+h2{
+font-family: arial;
+font-size: 32px;
+color: blue;
+}
+html{
+background-color: gray;
+}
