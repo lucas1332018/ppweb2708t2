@@ -17,3 +17,53 @@ color: blue;
 html{
 background-color: gray;
 }
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+.discordbtn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #29d6ce; /* Cor do Discord */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+.discordbtn:hover {
+    background-color: #4752C4;
+}
+.animais{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(5, 231, 54); /* Cor do Discord */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+.animais:hover {
+    background-color: rgb(27, 214, 10);
+}
+.curriculo{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(14, 80, 155); /* Cor do Discord */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+.curriculo:hover {
+    background-color: #0519f8;
+}
